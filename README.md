@@ -1,4 +1,4 @@
-### Olá, sou o Alan estudante de desenvolvimento. 👋</br>
+### Olá, sou Alan Douglas estudante de Desenvolvimento de sistemas e desenvolvedor web. 👋</br>
 
 <div align="center">
   <a href="https://github.com/AlanDouglasASouza">
